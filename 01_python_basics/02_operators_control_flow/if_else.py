@@ -2,7 +2,18 @@
 if True:
 
     pass
+a=14
+b=36
+#if(a>b){
+#    print("")
+#}
 
+if a>b:
+    print("a")
+elif b:
+    print("b")
+def login(): new*
+    pass
 
 if True:
     pass
